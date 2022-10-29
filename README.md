@@ -24,7 +24,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antho57&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antho57&label=Profile%20views&color=blueviolet&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
