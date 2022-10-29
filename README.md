@@ -1,5 +1,13 @@
 ### Salut toi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+<a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234225_iOS.png" align="right" height="275" /></a>
+
+##   Qui suis-je :
+
+
+##  📫 Comment me contacter:
+
+
 <h2 align="left">:hammer_and_wrench: Technologies et Outils que j'utilise :</h2>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
@@ -39,6 +47,7 @@
 
 <br/>
 <details>
+   <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234053_iOS.png" align="right" height="275" /></a>
   <summary><b>:zap: Statistiques de profil </b></summary>
    <br/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=material-palenight&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot" />
