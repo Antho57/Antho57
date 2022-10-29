@@ -1,5 +1,34 @@
 ### Hi there 👋
 
+
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antho57" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
+<!-- GitHub section: END -->
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antho57&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- THE END -->
+
 <!--
 **Antho57/Antho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### My GitHub Stats https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966
