@@ -4,14 +4,14 @@
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antho57&theme=midnight-purple" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Gift's language" height="192px"  width="450px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antho57&theme=panda" alt="Gift's LangStat" height="192px"  width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=en&layout=compact&theme=panda" alt="Gift's language" height="192px"  width="450px"/>
 </div>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=panda" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
