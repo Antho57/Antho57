@@ -4,6 +4,8 @@
 
 <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234225_iOS.png" align="right" height="275" /></a>
 
+</br>
+
 ## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je :
 
 Etudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
@@ -14,14 +16,7 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
 - **Langages favoris** : JavaScript, HTML, CSS, PHP
 - **Développeurs pas trop mauvais** : [Silvio](https://github.com/Silvio-Br), [Remi](https://github.com/RemRem57)
 
-##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
-
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/anthony-briot-7521a3218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/Anthony57b"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anthony.briot1809@orange.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+</br>
 
 <h2 align="left"><img src="https://img.icons8.com/emoji/344/hammer-and-wrench.png" width="30px"> Technologies et Outils que j'utilise :</h2>
 <p align="left">
@@ -47,7 +42,7 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/fr/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/> </a>
 </p>
-
+</br>
 
 ## <img src="https://img.icons8.com/emoji/344/bar-chart-emoji.png" width="30px"> Mes stats GitHub
 
@@ -71,6 +66,15 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=material-palenight&bg_color=00000000&hide_border=true" /></a>
   <br/>
 </details>
+</br>
+
+##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
+
+<p>
+  <a target="_blank"href="https://www.linkedin.com/in/anthony-briot-7521a3218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Anthony57b"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anthony.briot1809@orange.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <!-- GitHub section: END -->
 
