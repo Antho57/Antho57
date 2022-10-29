@@ -1,4 +1,4 @@
-<h1 align="center">ANTHONY BRIOT</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=10000&color=09E991&center=true&width=600&height=100&lines=Anthony+Briot" alt="Typing SVG" /></a></h1>
 
 ### Salut toi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
