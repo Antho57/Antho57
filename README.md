@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=10000&color=09E991&center=true&width=600&height=100&lines=Anthony+Briot" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=10000&color=E6C001&center=true&width=600&height=100&lines=Anthony+Briot" alt="Typing SVG" /></a></h1>
 
 ### Salut toi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
@@ -47,7 +47,7 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
 ## <img src="https://img.icons8.com/emoji/344/bar-chart-emoji.png" width="30px"> Mes stats GitHub
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=material-palenight&count_private=true&custom_title=Langages%20les%20plus%20utilisés&bg_color=00000000&hide_border=true" alt="Gift's language" height="150px"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=shades-of-purple&count_private=true&custom_title=Langages%20les%20plus%20utilisés&bg_color=00000000&hide_border=true" alt="Gift's language" height="150px"  width="400px"/>
 </div>
 <br/>
 
@@ -58,12 +58,12 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234053_iOS.png" align="right" height="220" /></a>
   <summary><b>✨ Statistiques de profil </b></summary>
    <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=material-palenight&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=shades-of-purple&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot&bg_color=00000000&hide_border=true" />
 </details>
 <details>
   <summary><b><img src = "https://img.icons8.com/emoji/344/chart-increasing-emoji.png" width="20px"> Activités récentes </b></summary>
   <br/>
-   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=material-palenight&bg_color=00000000&hide_border=true" /></a>
+   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=nightowl&bg_color=00000000&hide_border=true&title_color=e6c001&color=e6c001" /></a>
   <br/>
 </details>
 </br>
