@@ -16,7 +16,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Gift's%20Contribution%20Graph&theme=midnight-purple" /></a>
+   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Gift's%20Contribution%20Graph&theme=blueviolet" /></a>
   <br/>
 </details>
 
