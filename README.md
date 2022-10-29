@@ -37,8 +37,6 @@
 ##  Mes stats GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antho57&theme=material-palenight&count_private=true&show_icons=true&border_color=c691e9" alt="Gift's LangStat" height="192px"  width="450px"/>
-   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=en&layout=compact&theme=material-palenight&count_private=true&custom_title=Langages%20les%20plus%20utilisés" alt="Gift's language" height="192px"  width="450px"/>
 </div>
 <br/>
