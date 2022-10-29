@@ -2,13 +2,19 @@
 
 <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234225_iOS.png" align="right" height="275" /></a>
 
-##   Qui suis-je :
+## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je :
 
 
-##  📫 Comment me contacter:
+##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
+
+<p>
+  <a target="_blank"href="https://www.linkedin.com/in/anthony-briot-7521a3218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Anthony57b"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anthony.briot1809@orange.fr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
-<h2 align="left">:hammer_and_wrench: Technologies et Outils que j'utilise :</h2>
+<h2 align="left"><img src="https://img.icons8.com/emoji/344/hammer-and-wrench.png" width="30px"> Technologies et Outils que j'utilise :</h2>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
@@ -34,10 +40,10 @@
 </p>
 
 
-##  Mes stats GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## <img src="https://img.icons8.com/emoji/344/bar-chart-emoji.png" width="30px"> Mes stats GitHub
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=en&layout=compact&theme=material-palenight&count_private=true&custom_title=Langages%20les%20plus%20utilisés" alt="Gift's language" height="192px"  width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antho57&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=material-palenight&count_private=true&custom_title=Langages%20les%20plus%20utilisés&bg_color=00000000&hide_border=true" alt="Gift's language" height="150px"  width="400px"/>
 </div>
 <br/>
 
@@ -48,12 +54,12 @@
    <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234053_iOS.png" align="right" height="220" /></a>
   <summary><b>✨ Statistiques de profil </b></summary>
    <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=material-palenight&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=material-palenight&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot&bg_color=00000000&hide_border=true" />
 </details>
 <details>
-  <summary><b>📈 Activités récentes </b></summary>
+  <summary><b><img src = "https://img.icons8.com/emoji/344/chart-increasing-emoji.png" width="20px"> Activités récentes </b></summary>
   <br/>
-   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=material-palenight" /></a>
+   <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=material-palenight&bg_color=00000000&hide_border=true" /></a>
   <br/>
 </details>
 
