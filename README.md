@@ -1,9 +1,18 @@
+<h1 align="center">ANTHONY BRIOT</h1>
+
 ### Salut toi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="#"><img src="https://github.com/Antho57/Antho57/blob/5fd7fb40d111b868508f92082fc3aadafbc018d6/src/images/me/20221029_162234225_iOS.png" align="right" height="275" /></a>
 
 ## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je :
 
+Etudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
+Diplomé d'une licence en informatique, actuellement en première année de Master informatique. Développeur web full stack.
+
+- **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/) (VueJS, Tailwind, Laravel)
+- **Centres d'intérêts** : Football, Formule 1, Nouvelles Technologies
+- **Langages favoris** : JavaScript, HTML, CSS, PHP
+- **Développeurs pas trop mauvais** : [Silvio](https://github.com/Silvio-Br), [Remi](https://github.com/RemRem57)
 
 ##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
 
