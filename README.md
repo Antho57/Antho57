@@ -60,12 +60,12 @@ Diplomé d'une licence en informatique, actuellement en première année de Mast
    <br/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Antho57&show_icons=true&theme=shades-of-purple&count_private=true&custom_title=Statistiques%20GitHub%20d'Anthony%20Briot&bg_color=00000000&hide_border=true" />
 </details>
-<details>
+<!-- <details>
   <summary><b><img src = "https://img.icons8.com/emoji/344/chart-increasing-emoji.png" width="20px"> Activités récentes </b></summary>
   <br/>
    <a href="https://github.com/Antho57/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Antho57&custom_title=Graphique%20des%20contributions&theme=nightowl&bg_color=00000000&hide_border=true&title_color=e6c001&color=e6c001" /></a>
   <br/>
-</details>
+</details>-->
 </br>
 
 ##  <img src="https://img.icons8.com/emoji/344/open-mailbox-with-raised-flag.png" width="30px"> Comment me contacter:
