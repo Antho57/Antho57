@@ -14,7 +14,7 @@ Diplomé d'une licence en informatique, actuellement en deuxième année de Mast
 - **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/) (VueJS, Tailwind, Laravel)
 - **Centres d'intérêts** : Football, Formule 1, Nouvelles Technologies
 - **Langages favoris** : JavaScript, HTML, CSS, PHP
-- **Développeurs pas trop mauvais** : [Silvio](https://github.com/Silvio-Br), [Remi](https://github.com/RemRem57), [Nicolas](https://github.com/Nicolas-Frache)
+- **Développeurs pas trop mauvais** : [Silvio](https://github.com/Silvio-Br), [Remi](https://github.com/RemRem57), [Nicolas](https://github.com/Nicolas-Frache), [Jacques](https://github.com/schneiderjacques)
 
 </br>
 
