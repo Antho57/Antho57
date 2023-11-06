@@ -9,7 +9,7 @@
 ## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je :
 
 Etudiant en informatique à la Faculté des Sciences et Technologies de Nancy. <br/>
-Diplomé d'une licence en informatique, actuellement en première année de Master informatique. Développeur web full stack.
+Diplomé d'une licence en informatique, actuellement en deuxième année de Master Ingénierie Logicielle. Développeur web full stack.
 
 - **Projet en cours** : Développement back office full stack pour [Proprio Access](https://proprio-access.fr/) (VueJS, Tailwind, Laravel)
 - **Centres d'intérêts** : Football, Formule 1, Nouvelles Technologies
